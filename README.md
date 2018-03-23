@@ -1,3 +1,3 @@
 # NoteAnywhere
 simple clear
-here is the [example](http://leonzh.cc/notebook/ "NoteAnywhere") to play. 
+here is the [example](https://blog.leonzh.cc/notebook/ "NoteAnywhere") to play. 
